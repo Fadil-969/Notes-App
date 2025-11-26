@@ -4,7 +4,7 @@
 
 <h3>👋 Contributor:</h3>
 
-- 🌱 Durratul Daka Pamungkas: **XI/PPLG-3/8**
+- 🌱 Muhammad Fadil Zackyansyah: **XI PPLG-3/18**
 
 <h3>✅ Features</h3>
 
