@@ -5,6 +5,7 @@
 <h3>👋 Contributor:</h3>
 
 - 🌱 Muhammad Fadil Zackyansyah: **XI PPLG-3/18**
+- 🌱 Achmad Rhomadhon: **XI PPLG-3/2**
 
 <h3>✅ Features</h3>
 
